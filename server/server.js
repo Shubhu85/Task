@@ -23,7 +23,7 @@ async function getConnection() {
 
     return pool;
   } catch (err) {
-    console.log(`⛔⛔⛔: ${err.message}`);
+    console.log(`: ${err.message}`);
   }
 }
 
