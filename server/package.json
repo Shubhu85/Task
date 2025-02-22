@@ -4,8 +4,8 @@
   "description": "login",
   "main": "index.js",
   "scripts": {
-    "dev": "node server/index.js",
-    "start": "node server/index.js"
+    "dev": "node index.js",
+    "start": "node index.js"
   },
   "author": "shubham patil",
   "license": "ISC",
